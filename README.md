@@ -1,7 +1,7 @@
 <h1 align="center">腾讯视频号挂机教程</h1>
 <h3 align="center">教程</h3>
 
-[平台注册地址](https://www.laiqan.vip/register/58cb25)
+[进入平台注册地址](https://www.laiqan.vip/register/58cb25)
 
 ### 说明
 
