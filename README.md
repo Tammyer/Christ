@@ -3,7 +3,7 @@
 
 注册链接：https://www.laiqan.vip/register/58cb25
 
-[注册地址]((https://www.laiqan.vip/register/58cb25) "悬停显示") 
+[注册地址](https://www.laiqan.vip/register/58cb25) "悬停显示")
 
 
 ### 说明
