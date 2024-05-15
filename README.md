@@ -2,7 +2,7 @@
 <h4 align="center">教程</h4>
 
 
-[平台 注册地址](https://www.laiqan.vip/register/58cb25)
+[平台注册地址](https://www.laiqan.vip/register/58cb25)
 
 
 ### 说明
