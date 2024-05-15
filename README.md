@@ -1,7 +1,6 @@
 <h1 align="center">腾讯视频号挂机教程</h1>
 <h4 align="center">教程</h4>
 
-注册链接：https://www.laiqan.vip/register/58cb25
 
 [注册地址](https://www.laiqan.vip/register/58cb25) 
 
