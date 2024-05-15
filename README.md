@@ -17,7 +17,7 @@
 
 ![.png](https://s2.loli.net/2024/05/15/KNAkqQ9hmDpFWUw.png)
 
-#### 平台注册流程
+#### 平台操作流程
 
 ![.jpg](https://s2.loli.net/2024/05/15/mJrEs3QCUk7o1nP.jpg)
 
