@@ -1,9 +1,11 @@
 <h1 align="center">腾讯视频号挂机教程</h1>
-<div align="center">
- <h2 align="center">教程</h2>
-</div>
-[进入平台注册地址](https://www.laiqan.vip/register/58cb25)
 
+
+        <h2 align="center">教程</h2>
+        
+<div align="center">
+ [进入平台注册地址](https://www.laiqan.vip/register/58cb25)
+</div>
 -----------
 
 ### 说明
