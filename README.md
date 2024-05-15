@@ -13,6 +13,8 @@
 
 ![.png](https://s2.loli.net/2024/05/15/KNAkqQ9hmDpFWUw.png)
 
+![111.png](https://s2.loli.net/2024/05/15/1jSx9Lg6TWdvF5I.png)
+
 ### 实现功能
 
 - [ ] 自动挂机运行 多账号统一提现  无需后台驻守
