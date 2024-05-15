@@ -27,7 +27,7 @@
 3. 在页面中列出的一串请求列表中任意选择一个。
 4. 在右侧的Headers（标头）选项卡中找到Cookie一项，复制其值。
 5. 请确保复制的值中包含'1&_token'。
-![操作示例](https://s2.loli.net/2023/04/20/rayiYUNEn2u7Q4D.png "操作示例")
+![操作示例]([https://s2.loli.net/2023/04/20/rayiYUNEn2u7Q4D.png](https://smms.app/delete/PNQMrGT8ymYaoKISc6zf57V4W9) "操作示例")
 操作示例中使用的是最新版edge浏览器，如果使用的是其他浏览器，可以查找相对应浏览器的开发者工具使用教程。
 
 ### 手动设置下载路径的方法
