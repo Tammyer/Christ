@@ -57,5 +57,5 @@
 ![3.png](https://s2.loli.net/2024/05/15/mKHoYr6zEqB9aQs.png)
 
 
-## $\textcolor{red}{This\ is\ a\ Big\ Title}$
+## $\textcolor{darkgray}{This\ is\ a\ Big\ Title}$
 
