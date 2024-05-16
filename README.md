@@ -57,6 +57,6 @@
 ![3.png](https://s2.loli.net/2024/05/15/mKHoYr6zEqB9aQs.png)
 
 
-### $\textcolor{magenta}{I'm\ still\ Waiting\ for\ you\ where\ we\ used\ to\ be\. But\ you've\ forgotten\ you\ were\ once\ here\.}$
+### $\mathscr{magenta}{I'm\ still\ Waitting\ for\ you\ where\ we\ used\ to\ be\. But\ you've\ forgotten\ you\ were\ once\ here\.}$
 
 
