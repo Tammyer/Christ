@@ -58,4 +58,4 @@
 
 
 
-$\color{green}{教程}$
+$\color{red}{xx-atom}$
